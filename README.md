@@ -50,12 +50,16 @@ The dataset consists of structured BFSI-related documents stored in text format.
 ### Dataset Files
 
 data/
+
  ├── credit_card.txt
+
  ├── home_loan.txt
+ 
  ├── personal_loan.txt
+ 
  ├── insurance_policy.txt
+ 
  └── fraud_awareness.txt
-```
 
 ### Covered Topics
 
@@ -150,7 +154,7 @@ The system does not provide real financial, legal, or investment advice.
 
 The project successfully demonstrates how combining **RAG and Agentic RAG** can enhance AI systems in the BFSI domain. While RAG ensures accuracy through document grounding, Agentic RAG introduces intelligence through reasoning and autonomy, making the system suitable for real-world financial decision-support scenarios.
 
----
+
 
 
 
