@@ -2,7 +2,6 @@
 
 ### **Intelligent BFSI Knowledge and Advisory System using RAG and Agentic RAG**
 
----
 
 ## 📖 Overview
 
@@ -15,7 +14,6 @@ This project addresses these challenges by implementing:
 
 The system is fully implemented in **Jupyter Notebook** and focuses on backend intelligence without any graphical user interface.
 
----
 
 ## 🎯 Objectives
 
@@ -25,7 +23,6 @@ The system is fully implemented in **Jupyter Notebook** and focuses on backend i
 * To reduce hallucinations by grounding responses in BFSI documents
 * To provide an explainable and evaluator-friendly AI system
 
----
 
 ## 🧠 Project Architecture
 
@@ -45,7 +42,6 @@ The system is fully implemented in **Jupyter Notebook** and focuses on backend i
 * Performs self-verification and refinement
 * Produces the final response
 
----
 
 ## 📂 Dataset Description
 
@@ -53,7 +49,6 @@ The dataset consists of structured BFSI-related documents stored in text format.
 
 ### Dataset Files
 
-```
 data/
  ├── credit_card.txt
  ├── home_loan.txt
@@ -70,7 +65,6 @@ data/
 * Insurance types and claim rules
 * Banking fraud awareness and safety guidelines
 
----
 
 ## 🛠️ Technology Stack
 
@@ -84,7 +78,6 @@ data/
 | Language Model          | OpenAI GPT / Offline LLM (optional) |
 | Data Format             | TXT / PDF                           |
 
----
 
 ## ⚙️ Implementation Details
 
@@ -103,7 +96,6 @@ data/
 * Answer verification and refinement
 * Suitable for advisory and recommendation tasks
 
----
 
 ## 🧪 Example Queries
 
@@ -119,7 +111,6 @@ data/
 * “How can customers protect themselves from banking fraud?”
 * “Which insurance policy covers hospitalization expenses?”
 
----
 
 ## 🔍 RAG vs Agentic RAG Comparison
 
@@ -131,7 +122,6 @@ data/
 | Decision Making | No                 | Yes                 |
 | Use Case        | Information lookup | Advisory & guidance |
 
----
 
 ## 📊 Results and Observations
 
@@ -140,7 +130,6 @@ data/
 * Agentic system handles complex queries more effectively
 * Retrieval grounding significantly reduces hallucinations
 
----
 
 ## 🚀 Future Enhancements
 
@@ -150,17 +139,16 @@ data/
 * Offline deployment using local LLMs
 * Quantitative evaluation metrics for answer quality
 
----
 
 ## ⚠️ Disclaimer
 
 This project is intended for **educational and academic purposes only**.
 The system does not provide real financial, legal, or investment advice.
 
----
 
 ## 🎓 Conclusion
 
 The project successfully demonstrates how combining **RAG and Agentic RAG** can enhance AI systems in the BFSI domain. While RAG ensures accuracy through document grounding, Agentic RAG introduces intelligence through reasoning and autonomy, making the system suitable for real-world financial decision-support scenarios.
 
 ---
+
