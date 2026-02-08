@@ -1,0 +1,17 @@
+BANKING FRAUD AWARENESS GUIDELINES
+
+Banking fraud refers to unauthorized transactions conducted with the intent to deceive customers.
+
+Common Types of Fraud:
+- Phishing emails and messages
+- Fake phone calls asking for OTP
+- ATM card skimming
+- Online payment frauds
+
+Safety Guidelines:
+- Never share OTP, PIN, or CVV.
+- Do not click on suspicious links.
+- Verify bank communication through official channels.
+- Report fraud immediately to the bank.
+
+Banks and RBI regularly issue advisories to protect customers from fraud.

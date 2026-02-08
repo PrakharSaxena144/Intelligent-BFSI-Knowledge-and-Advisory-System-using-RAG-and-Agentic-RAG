@@ -1,0 +1,16 @@
+PERSONAL LOAN DETAILS
+
+A personal loan is an unsecured loan that can be used for various personal expenses such as travel, medical emergencies, or education.
+
+Key Features:
+- No collateral required.
+- Loan amount depends on income and credit score.
+- Tenure typically ranges from 1 to 5 years.
+
+Charges Associated with Personal Loans:
+- Processing Fee
+- Late Payment Penalty
+- Prepayment Charges
+- Interest on delayed payments
+
+Personal loans usually have higher interest rates compared to secured loans due to higher risk.

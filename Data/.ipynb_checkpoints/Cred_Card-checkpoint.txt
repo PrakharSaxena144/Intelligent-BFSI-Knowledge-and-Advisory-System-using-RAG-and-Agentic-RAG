@@ -1,0 +1,13 @@
+CREDIT CARD INFORMATION AND CHARGES
+
+A credit card allows customers to borrow funds up to a predefined credit limit to make purchases or withdraw cash.
+
+Common charges associated with credit cards include:
+1. Annual Fee: A yearly charge for using the credit card.
+2. Late Payment Fee: Charged when the minimum due amount is not paid on time.
+3. Interest Charges: Interest applied on outstanding balances if full payment is not made.
+4. Cash Withdrawal Fee: Extra charge for withdrawing cash using a credit card.
+5. Foreign Transaction Fee: Fee applied on international transactions.
+6. Over-limit Fee: Charged when spending exceeds the assigned credit limit.
+
+Credit card users are advised to pay dues on time to avoid penalties and maintain a good credit score.
