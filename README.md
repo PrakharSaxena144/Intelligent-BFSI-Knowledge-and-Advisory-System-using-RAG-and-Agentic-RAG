@@ -1,5 +1,3 @@
-## 📌 Project Title
-
 # **Intelligent BFSI Knowledge and Advisory System using RAG and Agentic RAG**
 
 
@@ -153,6 +151,7 @@ The system does not provide real financial, legal, or investment advice.
 ## 🎓 Conclusion
 
 The project successfully demonstrates how combining **RAG and Agentic RAG** can enhance AI systems in the BFSI domain. While RAG ensures accuracy through document grounding, Agentic RAG introduces intelligence through reasoning and autonomy, making the system suitable for real-world financial decision-support scenarios.
+
 
 
 
